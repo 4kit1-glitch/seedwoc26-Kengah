@@ -26,6 +26,10 @@ const product = 10 * 5;
 const quotient = 10 / 5;
 const remainder = 10 % 3;
 
-
+// Comparison
+console.log(5 == "5");
+console.log(0 === false);
+console.log(5 > 3);   
+console.log(3 >= 3);      
 
 

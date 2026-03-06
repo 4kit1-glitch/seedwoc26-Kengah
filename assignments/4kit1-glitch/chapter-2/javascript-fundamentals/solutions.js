@@ -112,3 +112,20 @@ if(typeof(user_name) === String && user_password != null){
 else{
   print("invalid types");
 }
+
+//exercise-7-nested ojects
+
+let student = {
+  stud_name: "john",
+  stud_age: 20,
+  address: {
+    street: "mile-4",
+    city: "bamenda"
+  },
+  scores: {
+    math: 45,
+    english: 70
+
+  }
+
+};
